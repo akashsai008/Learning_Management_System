@@ -111,11 +111,6 @@ Now, you can access the application at `http://127.0.0.1:8000/`.
 - **Profile**: View and update user information.
 - **About**: Information about the LMS system.
 
-## Contributors
-
-- **[Your Name]** - Project Lead and Developer
-- **Additional Contributors** - You can add other names if there are contributors.
-
 ## License
 
 This project is licensed under the MIT License
